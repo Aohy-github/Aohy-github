@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 一只才把工作做完的计算机研究生
+- 工作方向是关于高性能的生物计算（多序列比对方向）
+- 喜欢c++,最近在学习QT，掌握多线程
 <!--
 **Aohy-github/Aohy-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
